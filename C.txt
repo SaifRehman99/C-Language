@@ -1,0 +1,13 @@
+Escape Sequences =
+  \n
+  \t
+  \r  
+  \b
+  \"
+
+Format Specifiers =
+
+%d  int
+%f  float
+%c  chaar
+%lf double

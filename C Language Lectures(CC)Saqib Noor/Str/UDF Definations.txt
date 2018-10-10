@@ -1,0 +1,43 @@
+------------------------------- Functions -------------------------------
+
+- It performs Task;
+- Collection of statement.
+
+----------------------------- Types of Functions ----------------------
+
+- Built-in Functions.
+- user defined functions.
+
+---------------------------- Built-in Functions ---------------------
+
+- It provides by the language.
+
+
+---------------------------- U-D-F functions -----------------------
+
+- It makes by the programmer as per need.
+
+
+---------------------------- How to Make UDF -----------------------
+
+- Function Defination.
+- Function prototype.
+- Function Call.
+
+
+--------------------------- Function Defination --------------------
+
+Returning Area ---------------- Function Name ---------(Accepting Area).
+
+---------------------------- Types of Function Defination ----------
+
+1.main()  ---------------- It doesn't Return nor accept values.
+2.int main() ------------- It only retruns value.
+3.int main(int a) -------- It returns and accepts value too.
+4.void main() ------------ It returns value but void and void means nothing (0).
+5.void main(void) -------- it returns and accepts too but void value
+
+
+
+
+
